@@ -754,8 +754,17 @@ button,
         }
 
         #main > section.one {
-            background-color: #81918E;
-            background-image: url("../images/banner.jpg");
+            /* background-color: #81918E; */
+            /* background-image: url("../images/banner.jpg"); */
+        }
+        #vid {
+            position: relative;
+            width:100%;
+          }
+        #headVid{
+            position: relative;
+            top: 10em;
+            left: 6em;
         }
 
         #main > section.two {
